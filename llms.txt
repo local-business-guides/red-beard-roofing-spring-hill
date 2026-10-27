@@ -28,6 +28,9 @@
 - [Choosing a Contractor for Roofing Spring Hill Homes Need](https://local-business-guides.github.io/red-beard-roofing-spring-hill/contractor-for-roofing-spring-hill/): Find a contractor for roofing Spring Hill homeowners can talk with about repairs, replacement, and exterior work.
 - [Finding a Contractor Roofing Near Me in Spring Hill](https://local-business-guides.github.io/red-beard-roofing-spring-hill/contractor-roofing-near-me/): Searching contractor roofing near me? Get help assessing roof damage and next steps from a Spring Hill roofing company.
 
+## Newsroom
+- [Red Beard Roofing Releases Guide for Spring Hill Homeowners](https://local-business-guides.github.io/red-beard-roofing-spring-hill/news/2026-10-27-red-beard-roofing-releases-guide-for-spring-hill-h/): Red Beard Roofing released a guide about finding a roofing company in Spring Hill, along with a YouTube video, podcast episode and SoundCloud audio. (2026-10-27)
+
 ## Pages
 - [Roofing Company Spring Hill TN in Tennessee](https://local-business-guides.github.io/red-beard-roofing-spring-hill/): Get clear guidance on roofing, gutters, and exterior work from a local team serving Spring Hill. Call +1615-680-7663.
 - [About Red Beard Roofing](https://local-business-guides.github.io/red-beard-roofing-spring-hill/about/): About Red Beard Roofing, Spring Hill.
@@ -35,3 +38,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/red-beard-roofing-spring-hill/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/red-beard-roofing-spring-hill/news/rss.xml)

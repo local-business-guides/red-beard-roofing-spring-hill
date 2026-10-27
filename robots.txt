@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/red-beard-roofing-spring-hill/sitemap.xml
+Sitemap: https://local-business-guides.github.io/red-beard-roofing-spring-hill/news-sitemap.xml
